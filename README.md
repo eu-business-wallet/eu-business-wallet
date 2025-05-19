@@ -10,10 +10,15 @@ the [European Digital Identity Wallet (EUDIW)](https://ec.europa.eu/digital-buil
 and digitally in the EU, providing a seamless environment for companies to interact with all 
 public administrations. 
 
+## Please apply for participation at [EUBW@eID.AS](mailto:EUBW@eID.AS) now!
+
+Please register your interest for active and constructive participation in the EU Business Wallet Initiative by 
+sending a short **statement of motivation** to [EUBW@eID.AS](mailto:EUBW@eID.AS) until **27th of June 2025**.
+
 ## EU Business Wallet System Architecture
 
-As outlined in the following figure, the *EU Business Wallet* is embedded in a 
-system architecture, with an overarching *Trust Framework* defined by the eIDAS-regulation 
+As outlined in the following figure and explained in a first [discussion paper](https://dl.gi.de/items/c1d7ff4a-374a-4c11-a81e-64c5cc607e04), 
+the *EU Business Wallet* is embedded in a system architecture, with an overarching *Trust Framework* defined by the eIDAS-regulation 
 [(EU) No 910/2014](https://eID.AS) and optionally additional *Verifiable Data Registries* as defined 
 in pertinent standards created by [W3C](https://www.w3.org). 
 
@@ -22,15 +27,16 @@ in pertinent standards created by [W3C](https://www.w3.org).
 The EU Business Wallet is interacting 
 * with [European Digital Identity Wallets (EUDIWs)](https://ec.europa.eu/digital-building-blocks/sites/display/EUDIGITALIDENTITYWALLET/EU+Digital+Identity+Wallet+Home) for Business-to-Consumer (B2C) processes, 
 * with EU Government Wallets (EUGW) for Business-to-Government (B2G) processes, 
-* with other EU-Business-Wallets in Business-to-Business (B2B) processes, 
+* with other EU-Business-Wallets in Business-to-Business (B2B) processes,
+* with embedded devices and machines in Business-to-Machine (B2M) processes,
 * with employees in Business-to-Employee (B2E) processes and 
 * it is integrated with existing services and data repositories. 
 
-The EU Business Wallet is envisioned to play an important role within the
-[data spaces](https://docs.internationaldataspaces.org/ids-knowledgebase/dataspace-protocol), which
+The EU Business Wallet is envisioned to play an important role within 
+[Dataspaces](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-RC1/), which
 are emerging within different domains and hence it has a *Data Plane* and a *Control Plane*.
 Furthermore the EU Business Wallet has a *Trust Plane*, which interacts with the different
-providers and repositories within the *Trust Framework*.
+providers, repositories and catalogues within the *Trust Framework*.
 
 ## Goal of the EU Business Wallet Initiative
 
