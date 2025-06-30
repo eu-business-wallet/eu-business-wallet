@@ -10,11 +10,6 @@ the [European Digital Identity Wallet (EUDIW)](https://ec.europa.eu/digital-buil
 and digitally in the EU, providing a seamless environment for companies to interact with all 
 public administrations. 
 
-## Please apply for participation at [EUBW@eID.AS](mailto:EUBW@eID.AS) now!
-
-Please register your interest for active and constructive participation in the EU Business Wallet Initiative by 
-sending a short **statement of motivation** to [EUBW@eID.AS](mailto:EUBW@eID.AS) until **27th of June 2025**.
-
 ## EU Business Wallet System Architecture
 
 As outlined in the following figure and explained in a first [discussion paper](https://dl.gi.de/items/c1d7ff4a-374a-4c11-a81e-64c5cc607e04), 
@@ -27,7 +22,7 @@ in pertinent standards created by [W3C](https://www.w3.org).
 The EU Business Wallet is interacting 
 * with [European Digital Identity Wallets (EUDIWs)](https://ec.europa.eu/digital-building-blocks/sites/display/EUDIGITALIDENTITYWALLET/EU+Digital+Identity+Wallet+Home) for Business-to-Consumer (B2C) processes, 
 * with EU Government Wallets (EUGW) for Business-to-Government (B2G) processes, 
-* with other EU-Business-Wallets in Business-to-Business (B2B) processes,
+* with other EU Business Wallets in Business-to-Business (B2B) processes,
 * with embedded devices and machines in Business-to-Machine (B2M) processes,
 * with employees in Business-to-Employee (B2E) processes and 
 * it is integrated with existing services and data repositories. 
