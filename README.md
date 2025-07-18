@@ -28,10 +28,110 @@ The EU Business Wallet is interacting
 * it is integrated with existing services and data repositories. 
 
 The EU Business Wallet is envisioned to play an important role within 
-[Dataspaces](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-RC1/), which
-are emerging within different domains and hence it has a *Data Plane* and a *Control Plane*.
-Furthermore the EU Business Wallet has a *Trust Plane*, which interacts with the different
+[Dataspaces](https://eclipse-dataspace-protocol-base.github.io/DataspaceProtocol/2025-1-RC1/), which are emerging within different domains and hence it has a *Data Plane* and a *Control Plane* 
+in which there may be a variety of different protocols. Furthermore, the EU Business Wallet has a *Trust Plane*, which interacts with the different
 providers, repositories and catalogues within the *Trust Framework*.
+
+## Use Cases for the EU Business Wallet
+
+The EUBW is expected to complement the EUDIW in order to support a large variety of use cases as outlined in the following.
+Please do not hesitate to [suggest](https://github.com/eu-business-wallet/eu-business-wallet/issues)
+additional use cases or priorities and [join us](#contact) for designing, standardizing and implementing 
+the necessary protocols and data formats.   
+
+![EUBW_Use_Cases](/img/use-cases.svg)
+
+### Core Functionality of the EUBW
+
+The Core Functionality of the EUBW comprises 
+- Identification 
+- Authentication 
+- Authorization
+- Creation and Validation of Electronic Signatures and Seals
+- Requesting, Storing, Issuing, Presenting and Validating Electronic Attestations
+- Preserving and Archiving of Electronic Signatures, Seals, Time Stamps, Electronic Attestations and Documents
+
+### Cross-Sector Use Cases of the EUBW
+ 
+- Establishment of a Company
+- European Company Certificate
+- Power of Attorney and Mandates
+- Public Permits and Licences
+- Onboarding of Business Partners and Master Data Management
+- Electronic Invoicing
+- Electronic Contracts
+- Reporting of non-financial and diversity information
+
+### Sector-specific Use Cases of the EUBW
+
+#### Use Cases related to Finance
+- Strong Customer Authentication  
+- Identification of Payment Service Providers
+- Identification and verification of the Identity of customers and beneficial owners
+- Identification, authentication and business processes with agents
+- SEPA Direct Debit Mandates
+- Attestation of Financial Data and Statements
+- Financial Data Access
+
+#### Use Cases related to Industry
+
+- Data Exchange and Dataspaces
+- Digital Product Passport
+- Digital Twins and Industrial Asset Management 
+- Supply Chain Management and Trade Transparency
+- Registration in the European Product Registry for Energy Labelling 
+- Fulfilling the obligations of the Data Act
+- Secure Processing Environments according to the Data Governance Act
+- Reporting of Environmental Data from Industrial Installations
+- Attestations for Accreditation, Certificates and Conformity Assessment   
+
+#### Use Cases related to Logistics
+
+- Electronic Freight Transport Information
+- Electronic Consignment Notes (eCMR)
+- Reporting within the European Maritime Single Window Environment
+- Reporting of Carbon Dioxide Emmissions from Maritime Transport
+
+#### Use Cases related to Mobility, Travel and Tourism
+- Electronic Travel Documents
+- Electronic Transportation Tickets  
+- Mobile Driver's License
+- Registration of Motor Vehicles
+- Roadworthiness Certificates
+- Attestations for Aviation Security 
+- Data collection and sharing relating to short-term accommodation rental services
+
+#### Use Cases related to Health
+- Health Data Access and Exchange within the European Health Data Space
+- Organ Donor Card  
+- Reporting of suspected incidents related to Medical Devices
+- Use Cases within national and regional electronic health systems
+
+#### Use Cases related to Government
+
+- Life events supported by the Single Digital Gateway 
+- Use Cases within national and regional Electronic Government Initiatives 
+
+#### Use Cases related to Education
+
+- Application for Admission to Educational Institutions 
+- Application and Approval of Educational Grants and Loans
+- Attestations of Learning Achievements, Studies, School Certificates and University Diplomas
+- Attestations of Professional Qualifications, Titles and Licences
+
+#### Use Cases related to Social Security
+
+- Registering of Employer or Employees within the Social Security System 
+- Application for Health Insurance Membership 
+- Application for and Approval of Health Related Services
+- Attestation of Social Security Insurance Status
+- European Health Insurance Card
+
+#### Use Cases related to Justice
+
+- Judical Cooperation and Cross-Border Access to Justice
+- e-CODEX system
+- Proceedings related to the Digital Markets Act
 
 ## Goal of the EU Business Wallet Initiative
 
