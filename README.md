@@ -110,7 +110,8 @@ The Core Functionality of the EUBW comprises
 #### Use Cases related to Government
 
 - Life events supported by the Single Digital Gateway 
-- Use Cases within national and regional Electronic Government Initiatives 
+- Use Cases within national and regional Electronic Government Initiatives
+- Uses Cases related to democratic processes and electronic voting
 
 #### Use Cases related to Education
 
