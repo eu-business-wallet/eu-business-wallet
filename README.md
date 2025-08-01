@@ -140,7 +140,9 @@ To facilitate the trustworthy and interoperable implementation of the forthcomin
 the [go.eIDAS Association](https://go.eid.as/) has initiated the present initiative to pave the way for the European 
 Business Wallet by preparing technical documents, which are planned to be provided as input for 
 suitable standardisation bodies, such as [CEN](https://www.cencenelec.eu/), [ETSI](https://www.etsi.org/), [ISO](https://www.iso.org/), 
-[IETF](https://www.ietf.org/)  and [W3C](https://www.w3.org/) for example. 
+[IETF](https://www.ietf.org/)  and [W3C](https://www.w3.org/) for example. In paralel the EU Business Wallet Initiative will recognize the results from related international standardization bodies such as the mentioned ones but also e.g. tor specific subjects like UNCEFACT for Digital Product passport https://github.com/uncefact/spec-untpm
+
+The EU Business Wallet Initiative will recognize the results from existing projects like EU Digital Wallet Consortium https://github.com/EWC-consortium, EBSI VECTOR https://www.ebsi-vector.eu/en/ or TRACE4EU https://trace4eu.eu/ or Catena-X https://catena-x.net. 
 
 ## Contributing
 
